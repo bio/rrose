@@ -1,0 +1,14 @@
+{
+  "name": "leaflet-rrose",
+  "homepage": "https://github.com/erictheise/rrose",
+  "description": "A Leaflet Plugin for Edge Cases. It's useful when you want popups to respond to the mouseover and mousemove events, but the behavior associated with autoPan is getting in your way.",
+  "keywords": ["leaflet", "plugin", "pan", "popup"],
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {},
+  "license": ["MIT"],
+  "main": [
+    "rrose-src.js",
+    "leaflet.rrose.css"
+  ]
+}
